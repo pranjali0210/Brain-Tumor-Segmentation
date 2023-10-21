@@ -15,14 +15,14 @@ Here are some results predicted by a model trained for 2 epochs :
 *   **HGG cases** :
 
 ![Optional Text](../main/docs/images/HGG-Brats17_2013_7_1-111.png)
-![Optional Text](../master/docs/images/HGG-Brats17_CBICA_ASV_1-88.png)
-![Optional Text](../master/docs/images/HGG-Brats17_TCIA_186_1-90.png)
+![Optional Text](../main/docs/images/HGG-Brats17_CBICA_ASV_1-88.png)
+![Optional Text](../main/docs/images/HGG-Brats17_TCIA_186_1-90.png)
 
 *   **LGG cases** :
 
-![Optional Text](../master/docs/images/LGG-Brats17_TCIA_202_1-70.png)
-![Optional Text](../master/docs/images/LGG-Brats17_2013_24_1-91.png)
-![Optional Text](../master/docs/images/LGG-Brats17_TCIA_462_1-97.png)
+![Optional Text](../main/docs/images/LGG-Brats17_TCIA_202_1-70.png)
+![Optional Text](../main/docs/images/LGG-Brats17_2013_24_1-91.png)
+![Optional Text](../main/docs/images/LGG-Brats17_TCIA_462_1-97.png)
 
 ### Requirements
 
